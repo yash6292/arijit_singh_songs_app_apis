@@ -5,2074 +5,1093 @@
       "All": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Piano Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0027.%20Piano%20Ambient%20-%20AShamaluevMusic.mp3"
+          "music_name": "Aaj Phir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Phir - Hate Story 2 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hate story 2 aaj phir tumpe.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Space",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image119.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-space-olistik-sound-project-patrizio-yoga-12043.mp3"
+          "music_name": "Agar Tum Saath Ho",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Agar-Tum-Saath-Ho(PagalWorld).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/agar tum sath.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Real Airy Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image150.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ethereal-meditation-airy-and-tranquil-110249.mp3"
+          "music_name": "Baatein Ye Kabhi Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Baatein Ye Kabhi Na (Male) - Khamoshiyan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye Kabhi Na Tu Bhulna.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Flute",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image138.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditative-middle-eastern-flute-113656.mp3"
+          "music_name": "Baaton Ko Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Baaton Ko Teri - All Is Well 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Bato Ko Teri Hum.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cyclic Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image122.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/220-hz-cyclic-response-meditation-113940.mp3"
+          "music_name": "Aaj Se Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Se Teri - Padman 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Se Teri.webp"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lightly Feel Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image133.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-meditation-number-005-11306.mp3"
+          "music_name": "Bekhayali",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bekhayali (Arijit Singh Version) - Kabir Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Bekhayali.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Blessing Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image135.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/blessed-meditation-3792.mp3"
+          "music_name": "Chal Ghar Chalen",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Ghar Chalen - Malang - Unleash The Madness 192 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/-chal-ghar-chalen.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Slow Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image132.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/pleasing-meditation-3786.mp3"
+          "music_name": "Channa Mereya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Channa Mereya Ae Dil Hai Mushkil 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Channa Mereya Mereya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Asian",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image10.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0057.%20Asian%20-%20AShamaluevMusic.mp3"
+          "music_name": "Daayre",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Daayre Dilwale 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Daayre.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Woods",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature13.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/night-woods-7012.mp3"
+          "music_name": "Dekha Hazaro Dafaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa - Rustom 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Digital Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image123.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/digital-ambient-for-meditation-15967.mp3"
+          "music_name": "Deva Deva",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Deva Deva - Brahmastra 128 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpeg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Recovery",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image12.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0081.%20Recovery%20-%20AShamaluevMusic.mp3"
+          "music_name": "Apna Bana Le",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Apna Bana Le - Bhediya 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Apna Bana Le Piya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peaceful Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image140.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/peaceful-meditation-124457.mp3"
+          "music_name": "Dekha Hazaro Dafaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa - Rustom 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Tranquilness Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image142.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/tranquilness-ambient-healing-music-meditation-yoga-zen-112329.mp3"
+          "music_name": "Atak Gaya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Atak Gaya Arijit Singh - Badhaai Do 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Atak Gaya.webp"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Healthy Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image143.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/this-a-meditation-119694.mp3"
+          "music_name": "Tere Pyaar Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Pyaar Mein Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tere Pyaar Mein Tere Pyaar Mein.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Magical Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image141.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/magical-deep-meditation-116793.mp3"
+          "music_name": "Tera Yaar Hoon Main",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Yaar Hoon Main - Sonu Ke Titu Ki Sweety 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tera Yaar Hoon Main.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Slow Meditation Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image147.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/hopeful-slow-atmospheric-meditation-118550.mp3"
+          "music_name": "Tere Hawaale",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hawaale - Laal Singh Chaddha 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hawaale.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Harmony",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image15.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0112.%20Harmony%20-%20AShamaluevMusic.mp3"
+          "music_name": "Bairiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairiya - Arijit Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairiya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Feeling",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image16.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0113.%20Feeling%20-%20AShamaluevMusic.mp3"
+          "music_name": "Bandeya Rey Bandeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bandeya Rey Bandeya Simmba 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bandeya Rey Bandeya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image17.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0117.%20Deep%20Meditation%20-%20AShamaluevMusic.mp3"
+          "music_name": "Tera Ishq Mera Fitoor",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Fitoor - Shamshera 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tera Ishq Mera Fitoor.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peace",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image157.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0117.%20Peace%20-%20AShamaluevMusic.mp3"
+          "music_name": "Dhaagon Se Baandhaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhaagon Se Baandhaa Raksha Bandhan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhaagon Se Baandhaa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Pacification",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image19.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0126.%20Pacification%20-%20AShamaluevMusic.mp3"
+          "music_name": "Main Hoon Saath Tere",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Hoon Saath Tere - Shaadi Mein Zaroor Aana 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Hoon Saath Tere.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soul",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image2.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0418.%20Soul%20-%20AShamaluevMusic.mp3"
+          "music_name": "Heeriye",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Heeriye (feat. Arijit Singh) - Dulquer Salmaan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Heeriye heeriye aa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Calm Lake",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image3.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0450.%20Calm%20Lake%20-%20AShamaluevMusic.mp3"
+          "music_name": "Heeriye - Happy Hardy And Heer",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Heeriye - Happy Hardy And Heer 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Heeriye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peaceful",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image11.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0452.%20Peaceful%20-%20AShamaluevMusic.mp3"
+          "music_name": "Hum Nashe Mein Toh Nahin",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Nashe Mein Toh Nahin - Bhool Bhulaiyaa 2 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hum Nashe Mein Toh Nahin.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Silence",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image6.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0453.%20Silence%20-%20AShamaluevMusic.mp3"
+          "music_name": "Le Aaunga",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Le Aaunga - Satyaprem Ki Katha 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Se Tujhe Manake.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Aura",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image9.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0454.%20Aura%20-%20AShamaluevMusic.mp3"
+          "music_name": "Kesariya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kesariya-Tera-Ishq-Hai-Piya(PagalWorld).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Kesariya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soothing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0455.%20Soothing%20-%20AShamaluevMusic.mp3"
+          "music_name": "Khairiyat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat Chhichhore 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Wonder",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images11.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0468.%20Wonder%20-%20AShamaluevMusic.mp3"
+          "music_name": "Jhoome Jo Pathaan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jhoome Jo Pathaan - Pathaan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Jhoome Jo Pathaan.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Flowers",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0479.%20Flowers%20-%20AShamaluevMusic.mp3"
+          "music_name": "Pasoori Nu",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Pasoori Nu - Satyaprem Ki Katha 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Pasoori Nu.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Happiness",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images14.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0478.%20Happiness%20-%20AShamaluevMusic.mp3"
+          "music_name": "Phir Aur Kya Chahiye",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Aur Kya Chahiye - Arijit Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Or Kya Chahiye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "My Home",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0480.%20My%20Home%20-%20AShamaluevMusic.mp3"
+          "music_name": "O Bedardeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/O Bedardeya - Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/O Bedardeya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sands Of Time",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image102.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/sands-of-time-ambient-432hz-99489.mp3"
+          "music_name": "Mere Yaaraa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Yaaraa - Sooryavanshi 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Mere Yaara.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lost In Space",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image103.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/lost-in-space-ambient-soundscape-12294.mp3"
+          "music_name": "Pyaar Hota Kayi Baar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Pyaar Hota Kayi Baar Hai - Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Pyaar Hota Kayi Baar Hai.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cozy Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image104.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
+          "music_name": "Raanjhana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raanjhana - Arijit Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Raanjhana.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Body Soul",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image105.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
+          "music_name": "Rasiya Reprise",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rasiya Reprise - Brahmastra 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rasiya Reprise.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Wanderlust",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image108.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/wanderlust-ambient-soundscape-135399.mp3"
+          "music_name": "Shayad",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shayad - Love Aaj Kal 192 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
+          "music_name": "Tu Hi Yaar Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Yaar Mera - Pati Patni Aur Woh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/tu hi yaar mera.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Calm",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image170.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-music-calm-relaxing-music-5152.mp3"
+          "music_name": "Tujhe Kitna Chahne Lage",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tujhe Kitna Chahne Lage - Kabir Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tujhe Kitna Chahne Lage.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Room",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image14.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0110.%20Relaxing%20Room%20-%20AShamaluevMusic.mp3"
+          "music_name": "Tum Kya Mile",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tum Kya Mile - Rocky Aur Rani Kii Prem Kahaani 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tum Kya Mile Tum Kya Mile.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Love Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image112.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-tone-of-love-ambient-soundscape-345hz-136451.mp3"
+          "music_name": "Tumhe Kitna Pyaar Karte",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumhe Kitna Pyaar Karte - Bawaal 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyaar Karte.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Dreaming Seas",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image113.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/dreaming-seas-123642.mp3"
+          "music_name": "Ve Maahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi - Kesari 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chilling Waves Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image114.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/chilling-waves-ambient-chill-out-music-for-relaxation-13880.mp3"
+          "music_name": "What Jhumka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/What Jhumka - Rocky Aur Rani Kii Prem Kahaani 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/What Jhumka.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Electronic Ambient Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image115.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/electronic-ambient-music-for-relaxation-and-meditation-9362.mp3"
+          "music_name": "Dil Royi Jaye",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Royi Jaye - De De Pyaar De 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Dil-Royi-Jaye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Slow Drift",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image121.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/slow-drift-ambient-journey-15727.mp3"
+          "music_name": "Enna Sona",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Enna Sona - OK Jaanu 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Enna Sona.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Mindful Breathing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image118.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-new-age-mindfulness-healing-sitar-flute-ambient-music-131781.mp3"
+          "music_name": "Galti Se Mistake",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Galti Se Mistake - Jagga Jasoos 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Galti Se Mistake.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Light Universe",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-light-of-the-universe-ambient-soundscape-25938.mp3"
+          "music_name": "Gazab Ka Hai Yeh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gazab Ka Hai Yeh Din - Sanam Re 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gazab Ka Hai Yeh Din.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Night Calm Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image110.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/angel-night-chill-music-for-relaxation-sleep-and-meditation-5535.mp3"
+          "music_name": "Hawayein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hawayein Jab Harry Met Sejal (original Motion Picturetrack) 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hawaye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Spanish Beach",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image154.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/spanish-beach-(sleep).mp3"
+          "music_name": "Humdard",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Humdard - Ek Villain 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Jo Tu Mera Humdard.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Harmonic Sleep Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image129.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/harmonic-echoes-ambient-soundscape-345hz-136439.mp3"
+          "music_name": "Ijazat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ijazat - One Night Stand 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Ek baat kahu kya ijazat hai.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chinese Flute",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image101.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/chinese-flute-relaxing-music-short-120917.mp3"
+          "music_name": "Jaan ‘Nisaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaan ‘Nisaar (Arijit) - Kedarnath 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaan ‘Nisaar.webp"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Celestial Dreamy",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image130.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-celestial-dreamy-meditation-drone-healing-yoga-music-20846.mp3"
+          "music_name": "Janam Janam",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janam Janam - Dilwale 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Janam Janam Janam Janam Saath Chalna.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Tibetan Bowls",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image131.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/tibetan-bowls-meditation-olistik-sound-project-patrizio-yoga-12046.mp3"
+          "music_name": "Kabira",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kabira (Encore) - Yeh Jawaani Hai Deewani 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Kabira.jpeg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lightly Sleep",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image149.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/freezing-night-28066.mp3"
+          "music_name": "Khairiyat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat Chhichhore 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Seeing Light",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image134.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/seeing-the-light-132426.mp3"
+          "music_name": "Ki Honda Pyaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ki Honda Pyaar (Arijit Singh Version) - Jabariya Jodi 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ki Honda Pyaar.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sonido Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image155.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/sound-ambience-sonido-ambiente-33-14377.mp3"
+          "music_name": "Lambiyaan Si Judaiyaan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lambiyaan Si Judaiyaan.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lambiyaan Si Judaiyaan.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Sleeping",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image156.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/underwater-for-meditation-by-ob-14278.mp3"
+          "music_name": "Lo Maan Liya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lo Maan Liya - Raaz Reboot 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/bollywood_ringtones_data/lo-maan-liya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Dreamful sleep",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image151.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/tibetan-indian-meditation-115567.mp3"
+          "music_name": "Love Me Thoda Aur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Love Me Thoda Aur - Yaariyan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Love Me Thoda.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Piano Calm Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image153.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/to-the-trip-of-sky-relaxing-and-calm-pianoampstrings-138362.mp3"
+          "music_name": "Main Dhoondne Ko Zamaane",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Dhoondne Ko Zamaane Mein Heartless 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Dhoondne Ko Zamaane Mein.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain Drops",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image158.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/rain-drops-at-sea-ambient-piano-114653.mp3"
+          "music_name": "Mareez - E - Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mareez - E - Ishq - Zid 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Mareez E Ishq Hu Main.JPG"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain Solace",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image160.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/rain-solace-10-mins-yoga-meditation-relaxation-2055.mp3"
+          "music_name": "Mast Magan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mast Magan - 2 States 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Man mast magan.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Feel Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/calm-soft-emotional-ambient-nature-healing-meditation-yoga-116558.mp3"
+          "music_name": "Muskurane Ki Wajah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Muskurane Romantic Citylights 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Muskurane.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Relaxing Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/startrack-118312.mp3"
+          "music_name": "O Bedardeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/O Bedardeya - Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/O Bedardeya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Track",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/acape-138461.mp3"
+          "music_name": "Pal Pal Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Pal Pal Dil Ke Paas - Title Track - Pal Pal Dil Ke Paas 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Pal Pal Dil Ke Paas.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sleep Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/foetal-meditation-for-sleep-amp-relaxation-22029.mp3"
+          "music_name": "Phir Bhi Tumko Chaahunga",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Bhi Tumko Chaahunga - Full Song _ Arijit Singh _ Arjun K & Shraddha K _ Mithoon , Manoj M.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Bhi Tumko Chaahunga.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Touch Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/touch-and-sound-113676.mp3"
+          "music_name": "Phir Kabhi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Kabhi M.s. Dhoni The Untold Story 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Kabhi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Ambiant Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/ambiant-relax-sounds-10621.mp3"
+          "music_name": "Qaafirana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Qaafirana - Kedarnath 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Qaafirana.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Documentary",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-documentary-118016.mp3"
+          "music_name": "Raabta",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raabta Agent Vinod 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raabta.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Walk",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-walk-124997.mp3"
+          "music_name": "Roke Na Ruke Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Roke Na Ruke Naina- Badrinath Ki Dulhania 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Roke Na Ruke Naina.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sleep Chill Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature10.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-ambient-chill-music-and-nature-sounds-3627.mp3"
+          "music_name": "Samjhawan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Samjhawan - Humpty Sharma Ki Dulhania 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Samjhawan.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Voice Of Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature11.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/voice-of-nature-20683.mp3"
+          "music_name": "Sanam Re",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sanam Re - Sanam Re 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Sanam-Re.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Calls",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest12.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-calls-136344.mp3"
+          "music_name": "Saware",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Saware Phantom 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Saware.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "MindFul Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest13.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-99499.mp3"
+          "music_name": "Shayad",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shayad - Love Aaj Kal 192 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Mountain Path",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest14.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/mountain-path-125573.mp3"
+          "music_name": "Tera Chehra",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Chehra Sanam Teri Kasam 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Chehra.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Of Beat",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature9.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/the-beat-of-nature-122841.mp3"
+          "music_name": "Tera Fitoor",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Fitoor Genius 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/tera fittor.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Light Rain Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/light-rain-ambient-114354.mp3"
+          "music_name": "Tere Hoke Rehengay",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hoke Rehengay - Raja Natwarlal 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hoke Rehengay.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditative Rain",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/meditative-rain.mp3"
+          "music_name": "Teri Meri Kahaani",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Meri Kahaani - Gabbar Is Back 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Meri Kahaani -.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain And Thunder",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain3.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/rain-and-thunder-113218.mp3"
+          "music_name": "Tu Chale",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Chale - I 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tu Chale.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain4.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/rain-in-forest-birds-nature-111405.mp3"
+          "music_name": "Tu Har Lamha",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Har Lamha - Khamoshiyan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Is Baat Ko Khud Se Tu Na Chupa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soft Rain",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/soft-rain-ambient-111154.mp3"
+          "music_name": "Tu Hi Hai Aashiqui",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Aashiqui - Duet - Dishkiyaoon 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Aashiqui.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Heavy Rain",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/heavy-rain-nature-sounds-8186.mp3"
+          "music_name": "Ve Maahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi - Kesari 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lord Krishna Flute",
-          "musicImageSquare": "https://yash6292.github.io/krishana_ringtones_data/image8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/hare-krishna-flute-5200.mp3"
+          "music_name": "Zaalima",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Zaalima - Raees 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Zaalima.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Hare krishna Flute",
-          "musicImageSquare": "https://yash6292.github.io/krishana_ringtones_data/HD-wallpaper-krishna-god-god-krishna-lord-lord-krishna-shree-krishna-thumbnail.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/krishana_ringtones_data/Hare%20krishna%20hare%20krishna.mp3"
+          "music_name": "Har Kisi Ko",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_Boss 2013 - Har Kisi Ko.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Har Kisi Ko.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Krishna Flute",
-          "musicImageSquare": "https://yash6292.github.io/krishana_ringtones_data/image7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/krishana_ringtones_data/Krishna%20!%20Flute%20!%20Radha%20Krishna%20Flute.mp3"
+          "music_name": "Bandeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_DJ 2018 - Bandeya.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_DJ 2018 - Bandeya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Emerald Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/emerald-forest-chill-music-for-relaxation-sleep-and-meditation-5536.mp3"
+          "music_name": "Hamari Adhuri Kahani",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HAK - Hamari Adhuri Kahani.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HAK - Hamari Adhuri Kahani.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-in-the-frozen-forest-126589.mp3"
+          "music_name": "Manwa Laage",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HNY 2014 - Manwa Laage.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HNY 2014 - Manwa Laage.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Calm Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest3.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-spring-forest-15846.mp3"
+          "music_name": "Saanson Ko",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_Zid 2014 - Saanson Ko.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Saanson Ko Jine Ka Sahara Mil Gaya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chill Landscapes Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-chill-out-music-for-landscapes-under-water-animals-forests-8105.mp3"
+          "music_name": "Tum Hi Ho",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_01 - Tum Hi Ho - PagalSongs.com.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_01 - Tum Hi Ho.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Ambience",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-ambience-with-cuckoo-birds-chirping-123046.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chill Forest Frogs",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-crickets-and-frogs-by-prettysleepy-109202.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Jungle",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-jungle-nature-dark-atmo-6154.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Wind",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-wind-and-birds-6881.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest9.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/rain-in-forest-birds-nature-111405.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "River In The Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest10.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/river-in-the-forest-17271.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Stream",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest11.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/small-forest-stream-river-brook-nature-loop-111169.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Bird Voice In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest15.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/the-voices-of-birds-in-the-forest-7715.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relax Frozen",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image116.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-in-the-frozen-forest-126589.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relax Background Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image117.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/background-ambient-music-in-lydian-mode-21059.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image120.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relaxing-music-e-major-7966.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Calmness Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image137.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relaxing-meditation-112167.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Pure Relax Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image144.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/pure-by-prabajithk-118999.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxation-Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/Relaxation-Music_320(PaglaSongs).mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Light Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image124.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/cosmos-136040.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relax Sleep",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image139.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-relaxing-music-for-you-15969.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cool Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image127.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/on-the-edge-20527.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Fundo Relax Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image136.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/fundo-musical-relaxante-para-meditacao-120658.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soothing Banshees",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image146.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/soothing-banshees-137897.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Relaxing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image125.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/deeper-into-the-void-ambient-soundscape-22237.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Timeless Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image148.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/time-and-space-131367.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Stillness Place",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image128.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/a-place-of-stillness-133523.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Relax Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image145.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/its-a-meditation-119697.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Angry Lion",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/lion.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/angry-beast-6172.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Angry Tiger",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/tiger.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/angry-tiger-6089.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Bird Chrip",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bird1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/bird-chrip-126647.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Birds Frogs",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bird2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/birds-frogs-nature-8257.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Birds Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bird3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/birds-nature-relax-sounds-110839.mp3\n"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Birds Singing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bird4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/birds-singing-in-the-morning_nature-sound-146832.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Birds In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bird5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/birds-singing_nature-sound-145453.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peacock",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/peacock.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/cry-of-a-peacock_animal-sound-145793.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Duck Quack",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/duck.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/duck-quack-112941.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Eagle",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/eagle.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/eagle-scream-112940.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Frog Croaks",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/frog.webp",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/frog-croaks-22312.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Eagle",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/eagle.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/eagle-scream-112940.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Horse",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/horse.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/horse-123780.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Waterfall",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-waterfall-blaafarveverket-090721-35553.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Small Waterfall",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/sfx-small-waterfall-139452.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Calm Waterfall",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-24060.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Waterfall",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-6702.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Waterfall Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-ambient-sounds-116395.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Waterfall At Samegrelo",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-at-samegrelo-georgia-51333.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Waterfall In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-in-the-forest_nature-sound-149379.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cool Waterfall",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-sound-natural-40586.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Waterfall",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/waterfall9.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall_2-26872.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Fire In Fireplace",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/13_fire-in-fireplace-7096.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Fire Burning",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/fire-burning-loop-6135.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Fire Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/fire-sound-efftect-21991.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Campfire",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/campfire-1.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Campfire Crackling",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/fire5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/campfire-crackling-fireplace-sound-119594.mp3\n"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Auto Rickshaw",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/auto-rickshaw.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/Auto%20Rickshaw.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Motorbike",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bike.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/Motorbike-.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Bus Engine",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/bus.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/bus-engine-idling-26992.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Car Engine",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/car1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/carengine-5998.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Highway",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/car2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/highway-14475.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Truck Engine",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/truck.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/truck-engine-idle-loops-33687.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Train Railroad",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/train2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/train-railroad-traffic-sound-8002.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Train Passing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/train3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/train-subway-passing.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Train Horn",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/train1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/train-horn-fades-25194.mp3"
+          "music_name": "Thodi Jagah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_03 - Thodi Jagah - Marjaavaan (2019).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.jpg"
         }
       ],
       "Hits": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Piano Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0027.%20Piano%20Ambient%20-%20AShamaluevMusic.mp3"
+          "music_name": "Aaj Phir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Phir - Hate Story 2 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hate story 2 aaj phir tumpe.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Space",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image119.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-space-olistik-sound-project-patrizio-yoga-12043.mp3"
+          "music_name": "Agar Tum Saath Ho",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Agar-Tum-Saath-Ho(PagalWorld).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/agar tum sath.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Real Airy Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image150.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ethereal-meditation-airy-and-tranquil-110249.mp3"
+          "music_name": "Baatein Ye Kabhi Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Baatein Ye Kabhi Na (Male) - Khamoshiyan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye Kabhi Na Tu Bhulna.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Flute",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image138.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditative-middle-eastern-flute-113656.mp3"
+          "music_name": "Baaton Ko Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Baaton Ko Teri - All Is Well 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Bato Ko Teri Hum.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cyclic Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image122.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/220-hz-cyclic-response-meditation-113940.mp3"
+          "music_name": "Aaj Se Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Se Teri - Padman 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Se Teri.webp"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lightly Feel Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image133.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-meditation-number-005-11306.mp3"
+          "music_name": "Bekhayali",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bekhayali (Arijit Singh Version) - Kabir Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Bekhayali.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Blessing Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image135.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/blessed-meditation-3792.mp3"
+          "music_name": "Chal Ghar Chalen",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Ghar Chalen - Malang - Unleash The Madness 192 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/-chal-ghar-chalen.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Slow Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image132.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/pleasing-meditation-3786.mp3"
+          "music_name": "Channa Mereya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Channa Mereya Ae Dil Hai Mushkil 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Channa Mereya Mereya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Digital Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image123.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/digital-ambient-for-meditation-15967.mp3"
+          "music_name": "Daayre",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Daayre Dilwale 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Daayre.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peaceful Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image140.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/peaceful-meditation-124457.mp3"
+          "music_name": "Dekha Hazaro Dafaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa - Rustom 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Tranquilness Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image142.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/tranquilness-ambient-healing-music-meditation-yoga-zen-112329.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Healthy Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image143.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/this-a-meditation-119694.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Magical Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image141.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/magical-deep-meditation-116793.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Slow Meditation Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image147.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/hopeful-slow-atmospheric-meditation-118550.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Harmony",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image15.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0112.%20Harmony%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Meditation",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image17.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0117.%20Deep%20Meditation%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peace",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image157.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0117.%20Peace%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Pacification",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image19.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0126.%20Pacification%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soul",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image2.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0418.%20Soul%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Peaceful Breathing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image11.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0452.%20Peaceful%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Silence",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image6.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0453.%20Silence%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Aura",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image9.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0454.%20Aura%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soothing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0455.%20Soothing%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Wonder",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images11.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0468.%20Wonder%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Flowers",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0479.%20Flowers%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Happiness",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images14.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0478.%20Happiness%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lost In Space",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image103.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/lost-in-space-ambient-soundscape-12294.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Wanderlust",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image108.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/wanderlust-ambient-soundscape-135399.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Love Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image112.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-tone-of-love-ambient-soundscape-345hz-136451.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Dreaming Seas",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image113.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/dreaming-seas-123642.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chilling Waves Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image114.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/chilling-waves-ambient-chill-out-music-for-relaxation-13880.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Electronic Ambient Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image115.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/electronic-ambient-music-for-relaxation-and-meditation-9362.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Slow Drift",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image121.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/slow-drift-ambient-journey-15727.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Mindful Breathing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image118.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-new-age-mindfulness-healing-sitar-flute-ambient-music-131781.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Light Universe",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-light-of-the-universe-ambient-soundscape-25938.mp3"
+          "music_name": "Deva Deva",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Deva Deva - Brahmastra 128 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpeg"
         }
       ],
       "New": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Night Calm Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image110.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/angel-night-chill-music-for-relaxation-sleep-and-meditation-5535.mp3"
+          "music_name": "Apna Bana Le",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Apna Bana Le - Bhediya 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Apna Bana Le Piya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Spanish Beach",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image154.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/spanish-beach-(sleep).mp3"
+          "music_name": "Dekha Hazaro Dafaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa - Rustom 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Harmonic Sleep Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image129.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/harmonic-echoes-ambient-soundscape-345hz-136439.mp3"
+          "music_name": "Atak Gaya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Atak Gaya Arijit Singh - Badhaai Do 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Atak Gaya.webp"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chinese Flute",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image101.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/chinese-flute-relaxing-music-short-120917.mp3"
+          "music_name": "Tere Pyaar Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Pyaar Mein Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tere Pyaar Mein Tere Pyaar Mein.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Celestial Dreamy",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image130.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-celestial-dreamy-meditation-drone-healing-yoga-music-20846.mp3"
+          "music_name": "Tera Yaar Hoon Main",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Yaar Hoon Main - Sonu Ke Titu Ki Sweety 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tera Yaar Hoon Main.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Tibetan Bowls",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image131.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/tibetan-bowls-meditation-olistik-sound-project-patrizio-yoga-12046.mp3"
+          "music_name": "Tere Hawaale",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hawaale - Laal Singh Chaddha 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hawaale.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lightly Sleep",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image149.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/freezing-night-28066.mp3"
+          "music_name": "Bairiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairiya - Arijit Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairiya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Seeing Light",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image134.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/seeing-the-light-132426.mp3"
+          "music_name": "Bandeya Rey Bandeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bandeya Rey Bandeya Simmba 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bandeya Rey Bandeya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sonido Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image155.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/sound-ambience-sonido-ambiente-33-14377.mp3"
+          "music_name": "Tera Ishq Mera Fitoor",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Fitoor - Shamshera 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tera Ishq Mera Fitoor.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Sleeping",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image156.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/underwater-for-meditation-by-ob-14278.mp3"
+          "music_name": "Dhaagon Se Baandhaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhaagon Se Baandhaa Raksha Bandhan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhaagon Se Baandhaa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Dreamful sleep",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image151.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/tibetan-indian-meditation-115567.mp3"
+          "music_name": "Main Hoon Saath Tere",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Hoon Saath Tere - Shaadi Mein Zaroor Aana 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Hoon Saath Tere.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Piano Calm Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image153.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/to-the-trip-of-sky-relaxing-and-calm-pianoampstrings-138362.mp3"
+          "music_name": "Heeriye",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Heeriye (feat. Arijit Singh) - Dulquer Salmaan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Heeriye heeriye aa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain Drops",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image158.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/rain-drops-at-sea-ambient-piano-114653.mp3"
+          "music_name": "Heeriye - Happy Hardy And Heer",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Heeriye - Happy Hardy And Heer 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Heeriye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain Solace",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image160.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/rain-solace-10-mins-yoga-meditation-relaxation-2055.mp3"
+          "music_name": "Hum Nashe Mein Toh Nahin",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Nashe Mein Toh Nahin - Bhool Bhulaiyaa 2 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hum Nashe Mein Toh Nahin.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "My Home",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0480.%20My%20Home%20-%20AShamaluevMusic.mp3"
+          "music_name": "Le Aaunga",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Le Aaunga - Satyaprem Ki Katha 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Se Tujhe Manake.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Asian",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image10.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0057.%20Asian%20-%20AShamaluevMusic.mp3"
+          "music_name": "Kesariya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kesariya-Tera-Ishq-Hai-Piya(PagalWorld).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Kesariya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Recovery",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image12.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0081.%20Recovery%20-%20AShamaluevMusic.mp3"
+          "music_name": "Khairiyat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat Chhichhore 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Feeling",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image16.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0113.%20Feeling%20-%20AShamaluevMusic.mp3"
+          "music_name": "Jhoome Jo Pathaan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jhoome Jo Pathaan - Pathaan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Jhoome Jo Pathaan.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Calm Lake",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image3.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0450.%20Calm%20Lake%20-%20AShamaluevMusic.mp3"
+          "music_name": "Pasoori Nu",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Pasoori Nu - Satyaprem Ki Katha 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Pasoori Nu.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Darkness Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image109.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
+          "music_name": "Phir Aur Kya Chahiye",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Aur Kya Chahiye - Arijit Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Or Kya Chahiye.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "O Bedardeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/O Bedardeya - Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/O Bedardeya.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Mere Yaaraa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Yaaraa - Sooryavanshi 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Mere Yaara.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Pyaar Hota Kayi Baar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Pyaar Hota Kayi Baar Hai - Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Pyaar Hota Kayi Baar Hai.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Raanjhana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raanjhana - Arijit Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Raanjhana.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Rasiya Reprise",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rasiya Reprise - Brahmastra 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rasiya Reprise.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Shayad",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shayad - Love Aaj Kal 192 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tu Hi Yaar Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Yaar Mera - Pati Patni Aur Woh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/tu hi yaar mera.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tujhe Kitna Chahne Lage",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tujhe Kitna Chahne Lage - Kabir Singh 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tujhe Kitna Chahne Lage.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tum Kya Mile",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tum Kya Mile - Rocky Aur Rani Kii Prem Kahaani 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tum Kya Mile Tum Kya Mile.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tumhe Kitna Pyaar Karte",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumhe Kitna Pyaar Karte - Bawaal 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyaar Karte.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Ve Maahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi - Kesari 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "What Jhumka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/What Jhumka - Rocky Aur Rani Kii Prem Kahaani 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/What Jhumka.jpg"
         }
       ],
       "Old": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Feel Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/calm-soft-emotional-ambient-nature-healing-meditation-yoga-116558.mp3"
+          "music_name": "Dil Royi Jaye",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Royi Jaye - De De Pyaar De 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Dil-Royi-Jaye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Relaxing Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/startrack-118312.mp3"
+          "music_name": "Enna Sona",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Enna Sona - OK Jaanu 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Enna Sona.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Track",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature3.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/acape-138461.mp3"
+          "music_name": "Galti Se Mistake",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Galti Se Mistake - Jagga Jasoos 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Galti Se Mistake.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sleep Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/foetal-meditation-for-sleep-amp-relaxation-22029.mp3"
+          "music_name": "Gazab Ka Hai Yeh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gazab Ka Hai Yeh Din - Sanam Re 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gazab Ka Hai Yeh Din.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Touch Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/touch-and-sound-113676.mp3"
+          "music_name": "Hawayein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hawayein Jab Harry Met Sejal (original Motion Picturetrack) 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hawaye.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Ambiant Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/ambiant-relax-sounds-10621.mp3"
+          "music_name": "Humdard",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Humdard - Ek Villain 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Jo Tu Mera Humdard.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Documentary",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-documentary-118016.mp3"
+          "music_name": "Ijazat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ijazat - One Night Stand 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Ek baat kahu kya ijazat hai.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Walk",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-walk-124997.mp3"
+          "music_name": "Jaan ‘Nisaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaan ‘Nisaar (Arijit) - Kedarnath 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaan ‘Nisaar.webp"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Sleep Chill Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature10.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/waterfall-ambient-chill-music-and-nature-sounds-3627.mp3"
+          "music_name": "Janam Janam",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janam Janam - Dilwale 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Janam Janam Janam Janam Saath Chalna.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Voice Of Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature11.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/voice-of-nature-20683.mp3"
+          "music_name": "Kabira",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kabira (Encore) - Yeh Jawaani Hai Deewani 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Kabira.jpeg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Calls",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest12.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-calls-136344.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Woods",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature13.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/night-woods-7012.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "MindFul Nature",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature14.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/nature-99499.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Mountain Path",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest14.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/mountain-path-125573.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Nature Of Beat",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/nature9.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/the-beat-of-nature-122841.mp3"
+          "music_name": "Khairiyat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat Chhichhore 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khairiyat.jpg"
         }
       ],
       "Trending": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Light Rain Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/light-rain-ambient-114354.mp3"
+          "music_name": "Ki Honda Pyaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ki Honda Pyaar (Arijit Singh Version) - Jabariya Jodi 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ki Honda Pyaar.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditative Rain",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/meditative-rain.mp3"
+          "music_name": "Lambiyaan Si Judaiyaan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lambiyaan Si Judaiyaan.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lambiyaan Si Judaiyaan.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain And Thunder",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain3.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/rain-and-thunder-113218.mp3"
+          "music_name": "Lo Maan Liya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lo Maan Liya - Raaz Reboot 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/bollywood_ringtones_data/lo-maan-liya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain4.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/rain-in-forest-birds-nature-111405.mp3"
+          "music_name": "Love Me Thoda Aur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Love Me Thoda Aur - Yaariyan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Love Me Thoda.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soft Rain",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/soft-rain-ambient-111154.mp3"
+          "music_name": "Main Dhoondne Ko Zamaane",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Dhoondne Ko Zamaane Mein Heartless 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Dhoondne Ko Zamaane Mein.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Heavy Rain",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/rain6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/heavy-rain-nature-sounds-8186.mp3"
+          "music_name": "Mareez - E - Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mareez - E - Ishq - Zid 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Mareez E Ishq Hu Main.JPG"
+        },
+        {
+          "id": "1",
+          "music_name": "Mast Magan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mast Magan - 2 States 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Man mast magan.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Muskurane Ki Wajah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Muskurane Romantic Citylights 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Muskurane.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "O Bedardeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/O Bedardeya - Tu Jhoothi Main Makkar 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/O Bedardeya.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Pal Pal Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Pal Pal Dil Ke Paas - Title Track - Pal Pal Dil Ke Paas 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Pal Pal Dil Ke Paas.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Phir Bhi Tumko Chaahunga",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Bhi Tumko Chaahunga - Full Song _ Arijit Singh _ Arjun K & Shraddha K _ Mithoon , Manoj M.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Bhi Tumko Chaahunga.jpg"
         }
       ],
       "Best Of": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Lord Krishna Flute",
-          "musicImageSquare": "https://yash6292.github.io/krishana_ringtones_data/image8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/hare-krishna-flute-5200.mp3"
+          "music_name": "Phir Kabhi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Kabhi M.s. Dhoni The Untold Story 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Kabhi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Hare krishna Flute",
-          "musicImageSquare": "https://yash6292.github.io/krishana_ringtones_data/HD-wallpaper-krishna-god-god-krishna-lord-lord-krishna-shree-krishna-thumbnail.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/krishana_ringtones_data/Hare%20krishna%20hare%20krishna.mp3"
+          "music_name": "Qaafirana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Qaafirana - Kedarnath 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Qaafirana.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Krishna Flute",
-          "musicImageSquare": "https://yash6292.github.io/krishana_ringtones_data/image7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/krishana_ringtones_data/Krishna%20!%20Flute%20!%20Radha%20Krishna%20Flute.mp3"
+          "music_name": "Raabta",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raabta Agent Vinod 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raabta.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Roke Na Ruke Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Roke Na Ruke Naina- Badrinath Ki Dulhania 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Roke Na Ruke Naina.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Samjhawan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Samjhawan - Humpty Sharma Ki Dulhania 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Samjhawan.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Sanam Re",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sanam Re - Sanam Re 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Sanam-Re.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Saware",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Saware Phantom 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Saware.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Shayad",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shayad - Love Aaj Kal 192 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tera Chehra",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Chehra Sanam Teri Kasam 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Chehra.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tera Fitoor",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Fitoor Genius 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/tera fittor.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Tere Hoke Rehengay",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hoke Rehengay - Raja Natwarlal 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tere Hoke Rehengay.jpg"
         }
       ],
       "Top": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Emerald Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest1.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/emerald-forest-chill-music-for-relaxation-sleep-and-meditation-5536.mp3"
+          "music_name": "Teri Meri Kahaani",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Meri Kahaani - Gabbar Is Back 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Meri Kahaani -.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest2.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-in-the-frozen-forest-126589.mp3"
+          "music_name": "Tu Chale",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Chale - I 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Tu Chale.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cozy Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest14.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
+          "music_name": "Tu Har Lamha",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Har Lamha - Khamoshiyan 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Is Baat Ko Khud Se Tu Na Chupa.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Calm Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest3.png",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-spring-forest-15846.mp3"
+          "music_name": "Tu Hi Hai Aashiqui",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Aashiqui - Duet - Dishkiyaoon 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Aashiqui.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chill Landscapes Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest4.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-chill-out-music-for-landscapes-under-water-animals-forests-8105.mp3"
+          "music_name": "Ve Maahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi - Kesari 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ve Maahi.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Ambience",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest5.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-ambience-with-cuckoo-birds-chirping-123046.mp3"
+          "music_name": "Zaalima",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Zaalima - Raees 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Zaalima.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Chill Forest Frogs",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-crickets-and-frogs-by-prettysleepy-109202.mp3"
+          "music_name": "Har Kisi Ko",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_Boss 2013 - Har Kisi Ko.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Har Kisi Ko.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Jungle",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest7.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-jungle-nature-dark-atmo-6154.mp3"
+          "music_name": "Bandeya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_DJ 2018 - Bandeya.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_DJ 2018 - Bandeya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Wind",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest8.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/forest-wind-and-birds-6881.mp3"
+          "music_name": "Hamari Adhuri Kahani",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HAK - Hamari Adhuri Kahani.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HAK - Hamari Adhuri Kahani.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Rain In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest9.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/rain-in-forest-birds-nature-111405.mp3"
+          "music_name": "Manwa Laage",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HNY 2014 - Manwa Laage.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_HNY 2014 - Manwa Laage.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "River In The Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest10.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/river-in-the-forest-17271.mp3"
+          "music_name": "Saanson Ko",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/bollywood_Zid 2014 - Saanson Ko.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Saanson Ko Jine Ka Sahara Mil Gaya.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Forest Stream",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest11.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/small-forest-stream-river-brook-nature-loop-111169.mp3"
+          "music_name": "Tum Hi Ho",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_01 - Tum Hi Ho - PagalSongs.com.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_01 - Tum Hi Ho.jpg"
         },
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Bird Voice In Forest",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/forest15.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/the-voices-of-birds-in-the-forest-7715.mp3"
+          "music_name": "Thodi Jagah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_03 - Thodi Jagah - Marjaavaan (2019).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.jpg"
         }
       ],
       "Mashup": [
         {
           "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relax Frozen",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image116.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-in-the-frozen-forest-126589.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relax Background Ambient",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image117.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/background-ambient-music-in-lydian-mode-21059.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image120.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relaxing-music-e-major-7966.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Calmness Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image137.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/relaxing-meditation-112167.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Pure Relax Sound",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image144.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (100).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/pure-by-prabajithk-118999.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxation-Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/images6.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/Relaxation-Music_320(PaglaSongs).mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Light Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image124.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/cosmos-136040.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relax Sleep",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image139.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-relaxing-music-for-you-15969.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Cool Relax",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image127.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/on-the-edge-20527.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Fundo Relax Music",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image136.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/fundo-musical-relaxante-para-meditacao-120658.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Soothing Banshees",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image146.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/soothing-banshees-137897.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Relaxing",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image125.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/deeper-into-the-void-ambient-soundscape-22237.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Timeless Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image148.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/time-and-space-131367.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Stillness Place",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image128.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/a-place-of-stillness-133523.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Deep Relax Sounds",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image145.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/its-a-meditation-119697.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Meditation Calm",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image111.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-music-calm-relaxing-music-5152.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Relaxing Room",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image14.jpeg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://yash6292.github.io/meditation_app_data/0110.%20Relaxing%20Room%20-%20AShamaluevMusic.mp3"
-        },
-        {
-          "id": "1",
-          "isNativeAd": false,
-          "music_name": "Body Soul",
-          "musicImageSquare": "https://yash6292.github.io/meditation_app_data/image105.jpg",
-          "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (4).jpeg",
-          "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
+          "music_name": "Thodi Jagah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_03 - Thodi Jagah - Marjaavaan (2019).mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.jpg"
         }
-      ]}
+      ]
+    }
   }
 }
