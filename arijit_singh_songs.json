@@ -1087,9 +1087,33 @@
       "Mashup": [
         {
           "id": "1",
-          "music_name": "Thodi Jagah",
-          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_03 - Thodi Jagah - Marjaavaan (2019).mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.jpg"
+          "music_name": "Arijit Singh Mashup 2023",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh Mashup 2023.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh Mashup 2023.jpg"
+        },
+        {
+          "id": "1",
+          "music_name": "Arijt Singh Jukebox Mashup 2023",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijt Singh Jukebox Mashup 2023.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijt Singh Jukebox Mashup 2023.webp"
+        },
+        {
+          "id": "1",
+          "music_name": "Best Of Arijit Singh Lofi Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Best Of Arijit Singh Lofi Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Best Of Arijit Singh Lofi Mashup.webp"
+        },
+        {
+          "id": "1",
+          "music_name": "Non-Stop JukeBox Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Non-Stop JukeBox Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Non-Stop JukeBox.webp"
+        },
+        {
+          "id": "1",
+          "music_name": "FEEL THE MASHUP SONG OF ARIJIT",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/FEEL THE MASHUP SONG OF ARIJIT.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/FEEL THE MASHUP SONG OF ARIJIT.webp"
         }
       ]
     }
