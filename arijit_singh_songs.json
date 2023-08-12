@@ -1099,9 +1099,9 @@
         },
         {
           "id": "1",
-          "music_name": "Best Of Arijit Singh Lofi Mashup",
-          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Best Of Arijit Singh Lofi Mashup.mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Best Of Arijit Singh Lofi Mashup.webp"
+          "music_name": "Best Of Arijit Singh 2022",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Best of Arijit Singh 2022.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Best of Arijit Singh 2022.jpg"
         },
         {
           "id": "1",
@@ -1114,6 +1114,24 @@
           "music_name": "FEEL THE MASHUP SONG OF ARIJIT",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/FEEL THE MASHUP SONG OF ARIJIT.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/FEEL THE MASHUP SONG OF ARIJIT.webp"
+        },
+        {
+          "id": "1",
+          "music_name": "Non Stop Arijit Singh Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Non Stop Arijit Singh Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Non Stop Arijit Singh Mashup.webp"
+        },
+        {
+          "id": "1",
+          "music_name": "Feel The Vibes Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Feel The Vibes Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Feel The Vibes Mashup.webp"
+        },
+        {
+          "id": "1",
+          "music_name": "Feelings of Love Jukebox - Viniick",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Feelings of Love Jukebox - Viniick.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Feelings of Love Jukebox - Viniick.webp"
         }
       ]
     }
