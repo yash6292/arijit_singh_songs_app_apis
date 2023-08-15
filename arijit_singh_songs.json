@@ -69,13 +69,6 @@
         {
           "id": "1",
           "film_name": "Arijit Singh",
-          "music_name": "Dekha Hazaro Dafaa",
-          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro Dafaa - Rustom 128 Kbps.mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekha Hazaro.webp"
-        },
-        {
-          "id": "1",
-          "film_name": "Arijit Singh",
           "music_name": "Deva Deva",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Deva Deva - Brahmastra 128 Kbps.mp3",
           "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpeg"
@@ -219,13 +212,6 @@
           "music_name": "Phir Aur Kya Chahiye",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Aur Kya Chahiye - Arijit Singh 128 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Phir Or Kya Chahiye.jpg"
-        },
-        {
-          "id": "1",
-          "film_name": "Arijit Singh",
-          "music_name": "O Bedardeya",
-          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/O Bedardeya - Tu Jhoothi Main Makkar 128 Kbps.mp3",
-          "musicImage": "https://yash6292.github.io/bollywood_ringtones_data/O-Bedardeya.jpg"
         },
         {
           "id": "1",
@@ -625,6 +611,62 @@
           "music_name": "Thodi Jagah",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/new_128_03 - Thodi Jagah - Marjaavaan (2019).mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Arijit Singh Mashup 2023",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh Mashup 2023.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh Mashup 2023.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Arijt Singh Jukebox Mashup 2023",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijt Singh Jukebox Mashup 2023.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijt Singh Jukebox Mashup 2023.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Best Of Arijit Singh Mashup 2022",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Best of Arijit Singh Mashup 2022.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Best of Arijit Singh Mashup 2022.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Non-Stop JukeBox Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Non-Stop JukeBox Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Non-Stop JukeBox.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "FEEL THE MASHUP SONG OF ARIJIT",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/FEEL THE MASHUP SONG OF ARIJIT.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/FEEL THE MASHUP SONG OF ARIJIT.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Non Stop Arijit Singh Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Non Stop Arijit Singh Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Non Stop Arijit Singh Mashup.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Feel The Vibes Mashup",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Feel The Vibes Mashup.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Feel The Vibes Mashup.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Feelings of Love Jukebox - Viniick",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Feelings of Love Jukebox - Viniick.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Feelings of Love Jukebox - Viniick.webp"
         }
       ],
       "Hits": [
@@ -1073,7 +1115,7 @@
           "film_name": "Arijit Singh",
           "music_name": "O Bedardeya",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/O Bedardeya - Tu Jhoothi Main Makkar 128 Kbps.mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/O-Bedardeya.jpg"
+          "musicImage": "https://yash6292.github.io/bollywood_ringtones_data/O-Bedardeya.jpg"
         },
         {
           "id": "1",
