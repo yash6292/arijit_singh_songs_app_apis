@@ -496,13 +496,6 @@
         {
           "id": "1",
           "film_name": "Arijit Singh",
-          "music_name": "Shayad",
-          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shayad - Love Aaj Kal 192 Kbps.mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi.jpg"
-        },
-        {
-          "id": "1",
-          "film_name": "Arijit Singh",
           "music_name": "Tera Chehra",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Chehra Sanam Teri Kasam 128 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tera Chehra.jpg"
@@ -676,6 +669,13 @@
           "music_name": "Aaj Phir",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aaj Phir - Hate Story 2 128 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Hate story 2 aaj phir tumpe.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Qaafirana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Qaafirana - Kedarnath 128 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Qaafirana.jpg"
         },
         {
           "id": "1",
