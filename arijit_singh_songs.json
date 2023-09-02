@@ -22,7 +22,7 @@
           "film_name": "Arijit Singh",
           "music_name": "Baatein Ye Kabhi Na",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Baatein Ye Kabhi Na (Male) - Khamoshiyan 128 Kbps.mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye Kabhi Na Tu Bhulna.jpg"
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye.jpg"
         },
         {
           "id": "1",
@@ -870,6 +870,424 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        },
+
+
+
+
+
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "Hits": [
@@ -899,7 +1317,7 @@
           "film_name": "Arijit Singh",
           "music_name": "Baatein Ye Kabhi Na",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Baatein Ye Kabhi Na (Male) - Khamoshiyan 128 Kbps.mp3",
-          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye Kabhi Na Tu Bhulna.jpg"
+          "musicImage": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye.jpg"
         },
         {
           "id": "1",
@@ -1173,6 +1591,418 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        }, {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "New": [
@@ -1595,6 +2425,418 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        }, {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "Old": [
@@ -1772,6 +3014,418 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        }, {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "Trending": [
@@ -2068,6 +3722,418 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        }, {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "Best Of": [
@@ -2364,6 +4430,418 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        }, {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "Top": [
@@ -2674,6 +5152,418 @@
           "music_name": "Ae Dil Hai Mushkil",
           "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil Title Track Pritam 320 Kbps.mp3",
           "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ae Dil Hai Mushkil.jpg"
+        }, {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aasan Nahin Yahan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aasan Nahin Yahan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Aayat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat Bajirao Mastani 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Aayat.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pal - Monsoon Shootout",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal - Official Video - Nawazuddin Siddiqui - Monsoon Shootout - Rochak Kohli.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Pal.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Teri Saanson Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh - Teri Saanson Mein - Palak Muchhal - Amit Mishra - Karle Pyaar Karle - BW hits music.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Teri Saanson Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Meet",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet Full Video Song - Simran - Kangana Ranaut - Sachin-Jigar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Meet.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Musafir",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir Song (Reprise) - Sweetiee Weds NRI - Himansh Kohli, Zoya Afroz.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Musafir.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Pachtaoge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Arijit Singh- Pachtaoge - Vicky Kaushal, Nora Fatehi -Jaani, B Praak, Arvindr Khaira - Bhushan Kumar.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bairaagi - Bareilly Ki Barfi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi Bareilly Ki Barfi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Bairaagi.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Beech Beech Mein",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein Jab Harry Met Sejal (original Motion Picturetrack) 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Beech Beech Mein.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Bulleya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Bulleya Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Chal Wahan Jaate Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain Full Song with LYRICS - Arijit Singh - Tiger Shroff, Kriti Sanon - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Chal Wahan Jaate Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Darkhaast",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast Shivaay 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Darkhaast.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dekh Lena",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena Tum Bin 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dekh Lena.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dhokha Dhadi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi R... Rajkumar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dhokha Dhadi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Dil Ke Paas",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas Lyrical Video Song - Wajah Tum Ho - Arijit Singh, Tulsi Kumar.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Dil Ke Paas.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Gerua",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua Dilwale 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Gerua.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ghungroo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo War 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Ghungroo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Haareya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya Meri Pyaari Bindu 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Haareya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Hum Mar Jayenge",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Hum Mar Jayenge.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Ilahi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Ilahi Full Video Song - Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone - Pritam.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/llahi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Intezaar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar Mithoon 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Intezaar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Itni Si Baat Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain Azhar 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Itni Si Baat Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jaana Ve",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve Aksar 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jaana Ve.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Janib",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Janib Duet.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jiya",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya Full Song - Gunday - Ranveer Singh, Priyanka Chopra - Arijit Singh - Sohail Sen - Irshad Kamil.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jiya.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Jo Bheji Thi Duaa",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Jo Bheji Thi Duaa.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Judaai - Badlapur",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai Badlapur 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Judaai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Kashmir Main, Tu Kanyakumari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari Chennai Express 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Kashmir Main, Tu Kanyakumari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khamoshiyan",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan Full Video - Title Track-Arijit Singh-Ali Fazal, Sapna Pabbi, Gurmeet C.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khamoshiyan.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Khulke Jeene Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka Dil Bechara 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Khulke Jeene Ka.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Laal Ishq",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq Goliyon Ki Raasleela Ram Leela 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Laal Ishq.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Lehra Do",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do 83 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Lehra Do.webp"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Rang Sharbaton Ka",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka Reprise Phata Poster Nikhla Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Rang Sharbaton Ka.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Main Tera Boyfriend",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend Raabta 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Main Tera Boyfriend.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mere Dholna",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna Arijit Version Bhool Bhulaiyaa 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mere Dholna.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Milne Hai Mujhse Aayi",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi Aashiqui 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Milne Hai Mujhse Aayi.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Mohenjo Mohenjo",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo Mohenjo Daro 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Mohenjo Mohenjo.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Palat Tera Hero Idhar Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Palat Tera Hero Idhar Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Phir Mohabbat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat Murder 2 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Phir Mohabbat.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raat Bhar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar Heropanti 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raat Bhar.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Raaz Aankhein Teri",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Raaz Aankhein Teri.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Rangdaari",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari Lucknow Central 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Rangdaari.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sajde",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde Kill Dil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sajde.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Salamat",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat Full Song with Lyrics - SARBJIT - Randeep Hooda, Richa Chadda - T-Series.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Salamat.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sawan Aaya Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai Creature 3d 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sawan Aaya Hai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shaayraana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana Holiday A Soldier Is Never Off Duty 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shaayraana.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Shanivaar Raati",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati Main Tera Hero 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Shanivaar Raati.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Sooraj Dooba Hain",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain Roy 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Sooraj Dooba Hain.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Subah Subah",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah Sonu Ke Titu Ki Sweety 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Subah Subah.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Suno Na Sangemarmar",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/'Suno Na Sangemarmar' Full Song Youngistaan - Arijit Singh - Jackky Bhagnani, Neha Sharma.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Suno Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "The Breakup Song",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song Ae Dil Hai Mushkil 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/The Breakup Song.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tose Naina",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina Mickey Virus 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tose Naina.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tu Hi Hai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai Dear Zindagi 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tu Hi Hai.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Tumse Bhi Zyada",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada Tadap 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Tumse Bhi Zyada.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Uska Hi Banana",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana 1920 Evil Returns 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Uska Hi Banana.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Wafa Ne Bewafai",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai Teraa Surroor 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Wafa Ne Bewafai.png"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Woh Din",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din Chhichhore 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Woh Din.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yaad Hai Na",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na Raaz Reboot 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yaad Hai Na.jpg"
+        },
+        {
+          "id": "1",
+          "film_name": "Arijit Singh",
+          "music_name": "Yeh Fitoor Mera",
+          "music_url": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera Arijit Singh 320 Kbps.mp3",
+          "musicImage": "https://yash6292.github.io/arijit_singh_songs_app_data/Yeh Fitoor Mera.jpg"
         }
       ],
       "Mashup": [
